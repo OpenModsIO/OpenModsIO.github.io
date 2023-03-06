@@ -16,7 +16,6 @@ Our Discord is predominantly made up of a group of people who want to make some 
 ## Rules
  * Do no harm
  * ...
- * TV room is off-limits to combat
 
 Having trouble figuring out if what you're about to say is doing harm? Is it pretty contentious? Maybe just don't say it!
 
