@@ -11,11 +11,11 @@ So if you read nothing else, the capital rule, and essentially only rule: **Do n
 
 ## Discord
 Our Discord is predominantly made up of a group of people who want to make some of the people they meet online into actual friends; so keep that culture and vibe in mind.
-[Discord Link(https://discord.gg/G8DjeFZshU)](https://discord.gg/G8DjeFZshU)
+TBC - DM Bubble or an Admin to appeal
 
 ## Rules
- * Do no harm
- * ...
+ * The Golden Rule: Do no harm
+ * Use common sense - no racism, hatespeech. Don't abuse the TV room - memes are okay but no noise spam or inappropriate content
 
 Having trouble figuring out if what you're about to say is doing harm? Is it pretty contentious? Maybe just don't say it!
 
