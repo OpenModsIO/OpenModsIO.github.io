@@ -26,3 +26,8 @@ If you're looking to engage genuinely on political or contentious issues, we hav
 Admins are folk who have the Contributor role in Discord. The Discord currently has a hierarchy of Support (like admins), Contributor (people who help the Discord) and Members.
 
 To obtain Admin, demonstrate the values of OpenIO, or go out of your way to help (we have a laundry list of tasks!). Ask yourself as well why you want admin and reach out to the server owner (Bubble) or a Support role in Discord to apply.
+
+## Suggest an edit
+Want to make an edit?
+1. Register for a Github account at [Github.com](https://github.com)
+2. Submit an edit: [https://github.com/OpenModsIO/OpenModsIO.github.io/blob/main/rules/mordhau/randomweapon.md](https://github.com/OpenModsIO/OpenModsIO.github.io/blob/main/rules/mordhau/randomweapon.md)
