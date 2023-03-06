@@ -1,3 +1,3 @@
 # OpenModsIO Github Page
 
-Looking for the pages? Visit here: [https://OpenModsIO.github.io](OpenModsIO.github.io)
+Looking for the pages? Visit here: [OpenModsIO.github.io](https://OpenModsIO.github.io)
