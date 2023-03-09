@@ -9,3 +9,4 @@ Everyone is welcome to propose changes. To do so, make an edit with the pencil i
 #### Live (in-use) rule pages
 ##### Mordhau
 [Random Weapon by Bubble (openservers.io)](/rules/mordhau/randomweapon)
+[Unofficial Invasion by Longdong (openservers.io)](/rules/mordhau/unofficialinvasion)
