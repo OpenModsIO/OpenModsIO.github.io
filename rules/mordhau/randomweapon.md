@@ -5,7 +5,7 @@ This server was put together (and is managed) by Bubble; which OpenIO is immense
 ## OpenIO
 OpenIO (or, affectionately, "OiO") is about helping our community to become happier, healthier, wealthier and more connected - through collaboration on gaming, coding and more.
 
-It's about making those online avatars you meet in games, into genuine friends and fostering real connections.
+It's about making those online avatars you meet in games, into genuine friends and fostering real connections, while embodying elements of stoicism into ourselves.
 
 So if you read nothing else, the capital rule, and essentially only rule: **Do no harm**. That's all you need to read. But do read on if interested.
 
@@ -14,8 +14,9 @@ Our Discord is predominantly made up of a group of people who want to make some 
 TBC - DM Bubble or an Admin to appeal
 
 ## Rules
- * The Golden Rule: Do no harm
- * Use common sense - no racism, hatespeech. Don't abuse the TV room - memes are okay but no noise spam or inappropriate content
+ * The Golden Rule: Do no harm (no racism, hatespeech, use common sense)
+ * Don't abuse the TV room - memes are okay but no noise spam or inappropriate content
+ * Strive to be happy and virtuous (yeah it's a rule :) )
 
 Having trouble figuring out if what you're about to say is doing harm? Is it pretty contentious? Maybe just don't say it!
 
