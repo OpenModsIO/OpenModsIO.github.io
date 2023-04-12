@@ -1,6 +1,6 @@
-# Welcome to Random Weapon [by OpenIO]
+# Welcome to Random Weapon FFA [by OpenIO]
 
-This server was put together (and is managed) by Bubble; which OpenIO is immensely grateful for.
+This server is voluntarily paid for and run by OpenIO contributors whose goal is to make people happier.
 
 ## OpenIO
 OpenIO (or, affectionately, "OiO") is about helping our community to become happier, healthier, wealthier and more connected - through collaboration on gaming, coding and more.
@@ -11,7 +11,7 @@ So if you read nothing else, the capital rule, and essentially only rule: **Do n
 
 ## Discord
 Our Discord is predominantly made up of a group of people who want to make some of the people they meet online into actual friends; so keep that culture and vibe in mind.
-TBC - DM Bubble or an Admin to appeal
+Join: [https://discord.gg/G8DjeFZshU](https://discord.gg/G8DjeFZshU) Note at first you'll have a limited access role if you aren't known to our private community.
 
 ## Rules
  * The Golden Rule: Do no harm (no racism, hatespeech, use common sense)
