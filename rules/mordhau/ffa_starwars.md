@@ -1,4 +1,4 @@
-# Welcome to FFA Star Wars [by OpenIO]
+# Welcome to Star Wars FFA [by OpenIO]
 
 This server is voluntarily paid for and run by OpenIO contributors whose goal is to make people happier.
 
@@ -11,7 +11,7 @@ So if you read nothing else, the capital rule, and essentially only rule: **Do n
 
 ## Discord
 Our Discord is predominantly made up of a group of people who want to make some of the people they meet online into actual friends; so keep that culture and vibe in mind.
-Join: [https://discord.gg/G8DjeFZshU)[https://discord.gg/G8DjeFZshU]
+Join: [https://discord.gg/G8DjeFZshU](https://discord.gg/G8DjeFZshU) Note at first you'll have a limited access role if you aren't known to our private community.
 
 ## Rules
  * The Golden Rule: Do no harm (no racism, hatespeech, use common sense)
