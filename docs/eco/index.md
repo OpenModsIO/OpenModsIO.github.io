@@ -18,7 +18,8 @@ Many of our QoL changes exist to make pollution/environmental harm more alluring
 - plus more
 
 ### Quick Reference
-- [Ore Generation (in plain english)](/docs/eco/oregen)
+- [Ore Generation in plain english](/docs/eco/oregen)
+- [Ore Generation table](/docs/eco/oregen-table)
 - [Ore Generation (as open-source code)](/docs/eco/oregen.eco)
 - more coming soon
 
