@@ -1,245 +1,243 @@
 ### Grassland Biome Configuration Overview:
 
-- **Dirt and Rocky Soil:**
-    - Surface composed mainly of Dirt Blocks.
-    - Rocky Soil found within a 200-unit depth range, appearing infrequently (5% chance).
+#### Surface Composition:
+  - Primarily composed of Dirt Blocks at the surface.
+  - Rocky Soil Block found within a 200-unit depth range, with a 5% occurrence chance.
 
-- **Clay and Limestone:**
-    - Clay Blocks appear between depths of 2 to 6 units, with a consistent presence (100% chance).
-    - Limestone is prevalent from 2 to 15 units deep, alongside crushed limestone formations near the surface (0-1 unit depth).
+#### Subsurface Layers:
+  - Clay Blocks are present between depths of 2 to 6 units with a 100% chance of occurrence.
+  - Limestone Blocks appear in a depth range of 2 to 15 units, accompanied by Crushed Limestone near the surface (0-1 unit depth).
 
-- **Sandstone and Associated Ores:**
-    - Sandstone is a common rock type in this biome, appearing up to 15 units deep.
-    - Crushed Iron Ore is found within the sandstone layer (0-5 unit depth) but is relatively rare (10% chance).
-    - Additionally, Gold Ore deposits are located within granite layers at depths of 30 to 32 units, although these are very rare (0.01% chance).
+#### Sandstone and Associated Ores:
+  - Sandstone Blocks are common up to 15 units deep. Crushed Sandstone is also found near the surface.
+  - Crushed Iron Ore is present within the sandstone layer (0-5 unit depth) but is relatively rare (10% chance).
 
-- **Coal Deposits:**
-    - Significant coal deposits are present at various depths:
-        - A massive deposit (5000-8000 blocks) can be found between 18 to 22 units deep (extremely rare, 0.01% chance).
-        - Another large deposit (1000-10000 blocks) is located deeper, between 45 to 60 units (also very rare, 0.005% chance).
+#### Deep Sandstone and Limestone Layers:
+  - Further down, Sandstone Blocks appear between 55 to 60 units deep.
+  - Limestone Blocks and Coal Blocks are found between 10 to 20 units and 18 to 22 units deep, respectively.
+  - A significant Coal Block deposit (5000-8000 blocks) occurs at this depth but is very rare (0.01% chance).
+  - Iron Ore Blocks are located deeper between 45 to 60 units, in large deposits (1000-10000 blocks) but are very rare (0.005% chance).
 
-- **Granite and Gneiss:**
-    - Granite occurs between 60 to 80 units depth, with areas of crushed granite.
-    - Gneiss formations are found at the greatest depths (70-100 units) but without significant submodules.
+#### Granite and Gneiss Layers:
+  - Granite Blocks are found between 60 to 80 units deep, with Crushed Granite present.
+  - Gneiss Blocks appear at the greatest depths (70-100 units), without significant submodules.
 
-**Key Takeaways:**
-- **Mining Strategy:** For iron ore, target sandstone areas; for coal, explore deeper layers but be prepared for rarity.
-- **Rare Finds:** Keep an eye out for rare gold ore in granite zones.
-- **Deep Excavations:** Gneiss appears at great depths, though with no associated resources in this biome.
+Key Takeaways for Players:
 
+- Surface Exploration: Focus on Dirt and Rocky Soil. Clay and Limestone are easily accessible.
+- Mining Strategy: For Iron Ore, target Sandstone areas; for Coal, explore deeper layers but be prepared for rarity.
+- Rare Finds: Gold Ore in Granite zones is extremely rare, but keep an eye out.
+- Deep Excavations: Gneiss appears at great depths, though with no associated resources in this biome.
 
-### RainForest Biome Configuration Overview:
+---
 
-- **Surface Layers:**
-    - Predominantly Dirt Blocks at the surface.
-    - Rocky Soil appears within the first 200 units of depth, with a 5% chance of occurrence.
+### RainForest Biome Configuration Overview
 
-- **Clay and Shale:**
-    - Clay Blocks are found between 4 to 6 units and more abundantly from 1 to 30 units deep.
-    - Shale is a significant component, found up to 30 units deep, with Crushed Shale appearing near the surface.
+#### Surface Layers
+- **Dirt Blocks**: Predominant at the surface.
+- **Rocky Soil Block**: Occurs within 200-unit depth, 5% chance.
 
-- **Coal Deposits:**
-    - A large coal deposit (1000-8000 blocks) is located between 30 to 35 units deep, but is quite rare (0.005% chance).
+#### Subsurface Layers
+- **Clay Blocks**: Present between 4 to 6 units deep, more abundant from 1 to 30 units.
+- **Shale Block**: Significant component up to 30 units deep, Crushed Shale near the surface.
 
-- **Gold Ore:**
-    - Gold Ore is found within granite layers at depths of 45 to 55 units. This deposit ranges from 1000 to 3000 blocks but is very rare (0.005% chance).
+#### Coal Deposits
+- **Coal Block**: Large deposit between 30 to 35 units deep, rare (0.005% chance).
 
-- **Deep Rock Layers:**
-    - Granite and Gneiss formations are present at depths of 60 to 100 units.
+#### Gold Ore
+- **Gold Ore Block**: Found within granite layers at 60 to 70 units, rare (0.005% chance).
 
-**Key Insights for RainForest Biome:**
+#### Deep Rock Layers
+- **Granite and Gneiss Blocks**: Present at depths of 60 to 100 units.
 
-- **Surface Exploration:** Focus on Dirt and Rocky Soil; Clay and Shale are also prominent.
-- **Resource Targeting:** Shale and Clay are accessible; Coal and Gold are rare but in large deposits.
-- **Deep Mining:** Granite and Gneiss are found at greater depths, with potential for gold deposits.
+---
 
-### WarmForest Biome Configuration Overview:
+### WarmForest Biome Configuration Overview
 
-- **Surface Composition:**
-    - Surface primarily composed of Dirt Blocks.
-    - Rocky Soil also found within the first 200 units of depth, similar to the RainForest biome.
+#### Surface Composition
+- **Dirt Blocks**: Mainly on the surface.
+- **Rocky Soil Block**: Similar to RainForest biome, within first 200 units of depth.
 
-- **Clay and Basalt:**
-    - Clay appears within a depth range of 6 to 15 units.
-    - Basalt is a significant feature, found up to 20 units deep, with Crushed Basalt near the surface.
+#### Clay and Basalt
+- **Clay Blocks**: Appear within 6 to 15 units depth.
+- **Basalt Block**: Found up to 20 units deep, Crushed Basalt near the surface.
 
-- **Granite Formation:**
-    - Granite formations are present up to 20 units deep, along with Crushed Granite near the surface.
+#### Granite Formation
+- **Granite Block**: Present up to 20 units deep, with Crushed Granite near surface.
 
-- **Copper Ore Deposits:**
-    - Copper Ore deposits are located between 50 to 52 units deep, with a size range of 2000 to 10000 blocks, though the occurrence is rare (0.005% chance).
+#### Copper Ore Deposits
+- **Copper Ore Block**: Located between 50 to 52 units deep, rare (0.005% chance).
 
-- **Deeper Geological Layers:**
-    - Gneiss formations are found at depths of 70 to 100 units.
+#### Deeper Geological Layers
+- **Gneiss Block**: Found at depths of 70 to 100 units.
 
-**Key Insights for WarmForest Biome:**
+---
 
-- **Surface Mining:** Dirt and Rocky Soil are common, with accessible Clay and Basalt.
-- **Resource Extraction:** Copper Ore is rare but found in large deposits.
-- **Deep Exploration:** Granite and Gneiss are deeper layers, with potential for Copper Ore.
+### ColdForest Biome Configuration Overview
 
-### Taiga Biome Configuration Overview:
+#### Surface Composition
+- **Dirt Blocks**: Dominates the surface.
+- **Rocky Soil Block**: Within first 200 units of depth, 5% occurrence rate.
 
-- **Surface Layer:**
-    - Primarily Dirt Blocks at the surface.
-    - Sub-modules include Frozen Soil and Rocky Soil, each with a low occurrence chance (5% and 10%, respectively).
+#### Rocky Soil and Basalt
+- **Rocky Soil Block**: Thin layer from 1 to 3 units deep.
+- **Basalt Block**: Up to 15 units deep, Crushed Basalt near surface.
 
-- **Rocky Soil and Basalt:**
-    - Rocky Soil appears in a thin layer from 1 to 3 units deep.
-    - Basalt is a key feature, occurring up to 20 units deep, with Crushed Basalt near the surface.
+#### Granite Formation
+- **Granite Block**: Found up to 15 units deep, Crushed Granite in uppermost layer.
 
-- **Granite and Associated Ores:**
-    - Granite formations extend to 20 units deep, including areas of Crushed Granite.
-    - Rare occurrences of Crushed Copper Ore are found within the granite at the surface.
+#### Copper Ore Deposits
+- **Copper Ore Block**: Large deposit at 50 to 60 units, rare (0.001% chance).
 
-- **Copper and Gold Deposits:**
-    - Large Copper Ore deposits are located at depths between 45 to 55 units and 50 to 65 units. These deposits are rare but sizable, ranging from 1000 to 30000 blocks.
-    - Gold Ore deposits are also present, found between 45 to 55 units deep, with a deposit size of 500 to 4000 blocks. These are quite rare (0.005% chance).
+#### Deep Geological Layers
+- **Gneiss Block**: At depths of 70 to 100 units.
 
-- **Deep Geological Layers:**
-    - Gneiss formations occur at the deepest layers, between 70 to 120 units.
+---
 
-**Key Insights for Taiga Biome:**
+### Taiga Biome Configuration Overview
 
-- **Surface Mining:** Focus on Dirt, Frozen Soil, and Rocky Soil for initial exploration.
-- **Basalt and Granite:** Accessible for players seeking these resources.
-- **Rare Ore Mining:** Copper and Gold are present in significant but rare deposits, requiring targeted exploration.
-- **Deep Exploration:** Deeper layers contain Gneiss, with potential for Copper and Gold deposits.
+#### Surface Layer
+- **Dirt Blocks**: Predominant at surface.
+- **Frozen Soil and Rocky Soil Blocks**: Low occurrence (5% and 10%, respectively).
 
-### ColdForest Biome Configuration Overview:
+#### Rocky Soil and Basalt
+- **Rocky Soil Block**: Thin layer from 1 to 3 units deep.
+- **Basalt Block**: Key feature, up to 20 units deep, Crushed Basalt near surface.
 
-- **Surface Composition:**
-    - Dominated by Dirt Blocks on the surface.
-    - Rocky Soil is present within the first 200 units of depth, with a low appearance rate (5%).
+#### Granite and Associated Ores
+- **Granite Block**: Extends to 20 units deep, areas of Crushed Granite.
+- **Crushed Copper Ore**: Rare, found within granite at surface.
 
-- **Rocky Soil and Basalt:**
-    - Rocky Soil is found in a thin layer from 1 to 3 units deep.
-    - Basalt, a key feature, appears up to 15 units deep, with Crushed Basalt present near the surface.
+#### Copper and Gold Deposits
+- **Copper Ore Block**: Large deposits at 45 to 55 units, very rare.
+- **Gold Ore Block**: Also present, found between 50 to 65 units, very rare.
 
-- **Granite Formation:**
-    - Granite is found up to 15 units deep, along with Crushed Granite in the uppermost layer.
+#### Deep Geological Layers
+- **Gneiss Block**: Occurs at deepest layers, between 70 to 120 units.
 
-- **Copper Ore Deposits:**
-    - A large Copper Ore deposit is located at depths between 50 to 60 units. The deposit size ranges from 6000 to 15000 blocks, but the occurrence is very rare (0.001% chance).
+---
 
-- **Deep Geological Layers:**
-    - Gneiss formations are found at depths of 70 to 100 units.
+### Tundra Biome Configuration Overview
 
-**Key Insights for ColdForest Biome:**
+#### Surface and Frozen Layers
+- **Dirt Blocks**: Mainly composed.
+- **Frozen Soil Block**: 15% chance, **Snow Block**: 20% chance within the first 200 units of depth.
 
-- **Surface Mining:** Focus on Dirt and Rocky Soil for initial exploration.
-- **Basalt and Granite:** Easily accessible for players targeting these resources.
-- **Rare Ore Mining:** Significant Copper Ore deposits are present but require targeted exploration due to their rarity.
-- **Deep Exploration:** Deeper layers contain Gneiss but with no significant associated resources in this biome.
+#### Rocky Soil and Basalt
+- **Rocky Soil Block**: Appears from 1 to 3 units deep.
+- **Basalt Block**: Extends up to 30 units deep with **Crushed Basalt Block** near the surface.
+
+#### Granite, Gold, and Copper Ores
+- **Granite Block**: Found up to 30 units deep.
+- **Gold Ore Block**: Present in two layers: 45-70 units (500-5000 blocks), 30-70 units (1000-15000 blocks), both very rare.
+- **Copper Ore Block**: Located between 65-75 units deep in large quantities (10000-30000 blocks), very rare.
 
-### Tundra Biome Configuration Overview:
-
-- **Surface and Frozen Layers:**
-    - Primarily composed of Dirt Blocks.
-    - Includes Frozen Soil (15% chance) and Snow Blocks (20% chance) within the first 200 units of depth.
-
-- **Rocky Soil and Basalt:**
-    - Rocky Soil appears from 1 to 3 units deep, with Frozen Soil also present in the same depth range.
-    - Basalt formations extend up to 30 units deep, with Crushed Basalt in the upper layer.
-
-- **Granite, Gold, and Copper Ores:**
-    - Granite formations are found up to 30 units deep.
-    - Gold Ore is present in two layers: 45-70 units (500-5000 blocks) and 30-70 units (1000-15000 blocks), both very rare.
-    - Copper Ore deposits are located between 65-75 units deep in large quantities (10000-30000 blocks), but very rare.
-
-- **Deeper Geological Layers:**
-    - Gneiss formations occur at depths of 70 to 85 units.
-
-### Ice Biome Configuration Overview:
-
-- **Surface Ice and Sand Layers:**
-    - Surface layer composed of Ice Blocks up to 8 units deep.
-    - Sand and Basalt formations are found up to 30 units deep.
-
-- **Granite Formation:**
-    - Granite formations occur from 60 to 75 units deep.
-
-- **Copper and Gold Deposits:**
-    - Copper Ore deposits located between 25 to 55 units deep, ranging from 200 to 8000 blocks, very rare.
-    - Gold Ore deposits found between 45 to 60 units, ranging from 500 to 3000 blocks, also very rare.
-
-- **Deeper Geological Layers:**
-    - Gneiss formations are found at depths of 70 to 100 units.
-
-### Desert Biome Configuration Overview:
-
-- **Surface Sand Layers:**
-    - Surface layer composed of Desert Sand Blocks.
-    - Sand and Sandstone formations are found up to 20 units deep.
-
-- **Sandstone and Iron Ore Deposits:**
-    - Sandstone formations extend deeper, with significant Iron Ore deposits found between 55 to 60 units deep.
-    - Iron Ore deposits range from 2000 to 8000 blocks in size and are quite rare.
-
-- **Limestone Deposits:**
-    - Limestone deposits located between 30 to 35 units deep, with a size range of 1000 to 8000 blocks, rare occurrence.
-
-- **Deeper Geological Layers:**
-    - Gneiss formations occur at depths of 58 to 65 units.
-
-### Ocean Biome Configuration Overview:
-
-- **Surface and Underwater Layers:**
-    - Surface layer composed of Dirt Blocks.
-    - Sand and Limestone formations are found up to 15 units deep.
-
-- **Basalt Formation:**
-    - Basalt formations extend deeper, up to 100 units, with Crushed Basalt present in the upper layer.
-
-### DeepOcean Biome Configuration Overview:
-
-- **Ocean Floor Composition:**
-    - Surface layer composed of Dirt Blocks.
-    - Sand formations are found up to 10 units deep.
-
-- **Basalt Formation:**
-    - Basalt formations occur extensively, up to 100 units deep, with Crushed Basalt in the upper layer.
-
-
-### ColdCoast Biome Configuration Overview:
-
-- **Coastal Layers:**
-    - Surface composed of Sand Blocks.
-    - Limestone and Sandstone formations found at various depths, up to 40 units deep.
-
-- **Iron Ore Deposits:**
-    - Iron Ore deposits located between 28 to 40 units deep, including large deposits and Crushed Iron Ore formations.
-
-- **Deeper Geological Layers:**
-    - Basalt formations found at depths of 55 to 75 units.
-    - Gneiss formations occur at depths of 70 to 100 units.
-
-### WarmCoast Biome Configuration Overview:
-
-- **Coastal Layers:**
-    - Surface composed of Sand Blocks.
-    - Limestone and Sandstone formations found at various depths, up to 50 units deep.
-
-- **Iron Ore Deposits:**
-    - Iron Ore deposits located between 18 to 50 units deep, including significant deposits.
-
-- **Deeper Geological Layers:**
-    - Basalt and Gneiss formations found at greater depths, up to 100 units.
-
-### Wetland Biome Configuration Overview:
-
-- **Surface and Shale Layers:**
-    - Surface composed of Dirt Blocks.
-    - Shale formations found at various depths, with significant Coal deposits at 25 to 30 units and 34 to 40 units deep.
-
-- **Coal Deposits:**
-    - Coal deposits located at depths of 25 to 40 units, in significant quantities.
-
-- **Granite Formation:**
-    - Granite formations occur at depths of 50 to 60 units.
-
-- **Gold Deposits:**
-    - Gold Ore deposits located between 40 to 60 units deep, in large quantities but very rare.
-
-- **Deeper Geological Layers:**
-    - Gneiss formations found at depths of 60 to 100 units.
+#### Deeper Geological Layers
+- **Gneiss Block**: Occurs at depths of 70 to 85 units.
+
+---
+
+## Tundra Biome
+### Surface and Soil Layers
+- **Frozen Soil Block** at 0 to 0 depth with a 10% chance, noise type: RidgedMulti.
+- **Snow Block** at 0 to 0 depth with a 20% chance, noise type: Perlin.
+
+### Subsurface Layers
+- **Basalt Block** from 0 to 30 depth.
+- **Granite Block** from 0 to 30 depth with a 50% chance, noise type: Perlin.
+
+### Ore Deposits
+- **Gold Ore Block** between 65 to 75 depth, minimum 500 blocks.
+- **Copper Ore Block** between 30 to 70 depth, minimum 1000 blocks.
+- **Iron Ore Block** between 40 to 65 depth, minimum 2000 blocks.
+
+### Deep Geological Layers
+- **Gneiss Block** from 70 to 85 depth.
+
+---
+
+## Ice Biome
+### Surface Ice Layers
+- **Ice Block** from 0 to 8 depth.
+
+### Subsurface Layers
+- **Basalt Block** from 10 to 30 depth with a 80% chance, noise type: RidgedMulti.
+- **Granite Block** from 0 to 30 depth with a 90% chance, noise type: Perlin.
+
+### Ore Deposits
+- **Copper Ore Block** between 25 to 55 depth, minimum 2000 blocks.
+- **Iron Ore Block** between 25 to 55 depth, minimum 2000 blocks.
+
+### Deep Geological Layers
+- **Gneiss Block** from 70 to 100 depth.
+
+---
+
+## Desert Biome
+### Surface Sand Layers
+- **Desert Sand Block** at 0 depth.
+- **Sand Block** from 4 to 6 depth with a 100% chance, noise type: Perlin.
+
+### Subsurface Layers
+- **Sandstone Block** from 1 to 20 depth with a 100% chance, noise type: Perlin.
+- **Sandstone Block** from 0 to 20 depth with a 40% chance, noise type: Perlin.
+
+### Ore Deposits
+- **Copper Ore Block** between 55 to 60 depth, with a 0.01% chance.
+- **Gold Ore Block** between 20 to 24 depth, minimum 500 blocks.
+- **Limestone Block** between 30 to 35 depth, minimum 1000 blocks.
+
+### Deep Geological Layers
+- **Gneiss Block** from 58 to 65 depth.
+
+## Ocean Biome
+- **Dirt Block** at 0 depth.
+- **Sand Block** from 4 to 15 depth.
+- **Limestone Block** from 0 to 15 depth, with a 30% chance of Crushed Limestone at the same depth range, noise type: Perlin.
+- **Basalt Block** from 0 to 100 depth, with a 30% chance of Crushed Basalt from 0 to 1 depth, noise type: Perlin.
+
+---
+
+## DeepOcean Biome
+- **Dirt Block** at 0 depth.
+- **Sand Block** from 2 to 10 depth.
+- **Basalt Block** from 0 to 100 depth, with a 10% chance of Crushed Basalt from 0 to 1 depth, noise type: Perlin.
+
+---
+
+## ColdCoast Biome
+- **Sand Block** at 0 depth.
+- **Sand Block** from 5 to 15 depth.
+- **Limestone Block** from 8 to 14 depth, with an 80% chance of Crushed Limestone at 6 depth, noise type: Perlin.
+- **Sandstone Block** from 12 to 16 depth, with a 50% chance of Crushed Sandstone from 0 to 11 depth, noise type: RidgedMulti.
+- **Limestone Block** from 18 to 30 depth.
+- **Sandstone Block** from 28 to 40 depth, with a 0.01% chance of Iron Ore from 34 to 37 depth and a larger deposit of Iron Ore within the same range.
+- **Basalt Block** from 55 to 75 depth.
+- **Gneiss Block** from 70 to 100 depth.
+
+---
+
+## WarmCoast Biome
+- **Sand Block** at 0 depth.
+- **Sand Block** from 4 to 15 depth.
+- **Limestone Block** from 10 to 15 depth, with a 40% chance of Crushed Limestone from 0 to 1 depth, noise type: Perlin.
+- **Sandstone Block** from 18 to 25 depth, with a 60% chance of Iron Ore from 16 to 18 depth, noise type: Perlin.
+- **Limestone Block** from 18 to 30 depth.
+- **Sandstone Block** from 37 to 50 depth, with a 70% chance of Iron Ore from 33 to 34 depth and a larger deposit of Iron Ore within 31 to 36 depth range.
+- **Gneiss Block** from 50 to 55 depth.
+- **Basalt Block** from 55 to 60 depth.
+
+---
+
+## Wetland Biome
+- **Water Block** at 0 depth, with a 5% chance of Ice from 1 to 200 depth, noise type: Perlin.
+- **Clay Block** from 8 to 15 depth.
+- **Shale Block** from 0 to 15 depth, with a 40% chance of Crushed Shale at the same depth, noise type: Perlin.
+- **Coal Block** from 25 to 30 depth, with a minimum of 500 blocks and a larger deposit within 20 to 40 depth range.
+- **Iron Ore Block** from 20 to 30 depth, with a larger deposit within 20 to 40 depth range.
+- **Copper Ore Block** within 20 to 30 depth, with a larger deposit within the same range.
+- **Gold Ore Block** within 25 to 30 depth, with a larger deposit within 25 to 40 depth range.
+- **Shale Block** from 32 to 35 depth.
+- **Coal Block** from 34 to 40 depth.
+- **Granite Block** from 50 to 60 depth, with a large deposit of Stone within 40 to 70 depth range.
+- **Gneiss Block** from 60 to 100 depth.
