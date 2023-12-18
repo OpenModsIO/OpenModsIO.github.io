@@ -1,33 +1,33 @@
-Grassland Biome Configuration Overview:
+### Grassland Biome Configuration Overview:
 
-    Dirt and Rocky Soil:
-        Surface composed mainly of Dirt Blocks.
-        Rocky Soil found within a 200-unit depth range, appearing infrequently (5% chance).
+- **Dirt and Rocky Soil:**
+    - Surface composed mainly of Dirt Blocks.
+    - Rocky Soil found within a 200-unit depth range, appearing infrequently (5% chance).
 
-    Clay and Limestone:
-        Clay Blocks appear between depths of 2 to 6 units, with a consistent presence (100% chance).
-        Limestone is prevalent from 2 to 15 units deep, alongside crushed limestone formations near the surface (0-1 unit depth).
+- **Clay and Limestone:**
+    - Clay Blocks appear between depths of 2 to 6 units, with a consistent presence (100% chance).
+    - Limestone is prevalent from 2 to 15 units deep, alongside crushed limestone formations near the surface (0-1 unit depth).
 
-    Sandstone and Associated Ores:
-        Sandstone is a common rock type in this biome, appearing up to 15 units deep.
-        Crushed Iron Ore is found within the sandstone layer (0-5 unit depth) but is relatively rare (10% chance).
-        Additionally, Gold Ore deposits are located within granite layers at depths of 30 to 32 units, although these are very rare (0.01% chance).
+- **Sandstone and Associated Ores:**
+    - Sandstone is a common rock type in this biome, appearing up to 15 units deep.
+    - Crushed Iron Ore is found within the sandstone layer (0-5 unit depth) but is relatively rare (10% chance).
+    - Additionally, Gold Ore deposits are located within granite layers at depths of 30 to 32 units, although these are very rare (0.01% chance).
 
-    Coal Deposits:
-        Significant coal deposits are present at various depths:
-            A massive deposit (5000-8000 blocks) can be found between 18 to 22 units deep (extremely rare, 0.01% chance).
-            Another large deposit (1000-10000 blocks) is located deeper, between 45 to 60 units (also very rare, 0.005% chance).
+- **Coal Deposits:**
+    - Significant coal deposits are present at various depths:
+        - A massive deposit (5000-8000 blocks) can be found between 18 to 22 units deep (extremely rare, 0.01% chance).
+        - Another large deposit (1000-10000 blocks) is located deeper, between 45 to 60 units (also very rare, 0.005% chance).
 
-    Granite and Gneiss:
-        Granite occurs between 60 to 80 units depth, with areas of crushed granite.
-        Gneiss formations are found at the greatest depths (70-100 units) but without significant submodules.
+- **Granite and Gneiss:**
+    - Granite occurs between 60 to 80 units depth, with areas of crushed granite.
+    - Gneiss formations are found at the greatest depths (70-100 units) but without significant submodules.
 
-Key Takeaways for Players:
+**Key Takeaways for Players:**
 
-    Surface Exploration: Focus on dirt and rocky soil; clay and limestone are easily accessible.
-    Mining Strategy: For iron ore, target sandstone areas; for coal, explore deeper layers but be prepared for rarity.
-    Rare Finds: Keep an eye out for rare gold ore in granite zones.
-    Deep Excavations: Gneiss appears at great depths, though with no associated resources in this biome.
+- **Surface Exploration:** Focus on dirt and rocky soil; clay and limestone are easily accessible.
+- **Mining Strategy:** For iron ore, target sandstone areas; for coal, explore deeper layers but be prepared for rarity.
+- **Rare Finds:** Keep an eye out for rare gold ore in granite zones.
+- **Deep Excavations:** Gneiss appears at great depths, though with no associated resources in this biome.
 
 
 
